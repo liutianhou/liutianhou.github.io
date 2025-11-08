@@ -1,25 +1,24 @@
 # Site configuration
-domain: "http://songroger.win"
+domain: "https://liutianhou.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://songroger.github.io/" # the base hostname & protocol for your site
+url: "https://liutianhou.github.io" # the base hostname & protocol for your site
 permalink: /:title/
-avatar: http://7xof48.com1.z0.glb.clouddn.com/avatar.jpg
-about: http://7xof48.com1.z0.glb.clouddn.com/about.jpg
-favicon: http://7xof48.com1.z0.glb.clouddn.com/favicon.png
-basecss: 
+avatar: 
+about: 
+favicon: 
+basecss:
 # Theme specific configuration
-title: songroger
+title: 一个小白
 description: >
-  Hi there, My name is Luozhan.Song, usually I use "songroger" as my ID everywhere.
-  I was born and raised in Hunan China. 
-  I'm really fond of beautiful design, drawing etc.
+  你好，我是 一个小白。这是我的个人博客，用来记录技术与生活随笔。
+  欢迎交流与指正。
 
 # Contact and social media links
-twitter_username: songrogero
-github_username: songroger
-facebook_username: song.roger.1
-instagram_username: songroger198
-linkedin_username: songroger
+twitter_username: 
+github_username: 一个小白
+facebook_username: 
+instagram_username: 
+linkedin_username: 
 
 exclude: ['node_modules', 'gulpfile.js', 'package.json']
 
